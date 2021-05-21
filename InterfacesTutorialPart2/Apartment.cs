@@ -17,7 +17,7 @@ namespace InterfacesTutorialPart2
 
         double IDimensionImperial.GetSize()
         {
-            return Math.Round(SizeInSquareMeters * 10.746, 2);
+            return Math.Round(SizeInSquareMeters * 10.764, 2);
         }
     }
 }
